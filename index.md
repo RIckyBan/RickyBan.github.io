@@ -1,5 +1,3 @@
-# RIckyBan.github.io
-
 ## Profile
 
 Riki Bando
