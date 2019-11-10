@@ -14,7 +14,7 @@ B4 student at University of Tokyo, College of Arts and Sciences, Department of I
 1. [TABEEGO](https://tabeego-ids.herokuapp.com/) (2019)  
     授業課題で、簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。
 
-1. [侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)  
+1. [IoT侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)  
     Raspberry Pi上で動作する顔認識の機械学習プログラムを作成し、IFTTTによりLINEと連携させました。
 
 ## Publication
@@ -23,14 +23,14 @@ B4 student at University of Tokyo, College of Arts and Sciences, Department of I
 
 ## Misc
 
-Githubアカウント: [RIckyBan](https://github.com/RIckyBan)
+- Githubアカウント: [RIckyBan](https://github.com/RIckyBan)
 
-Qiitaアカウント: [RIckyBan](https://qiita.com/RIckyBan)
+- Qiitaアカウント: [RIckyBan](https://qiita.com/RIckyBan)
 
-AtCoderアカウント: [緑 (最高レート: 979)](https://atcoder.jp/users/Ricky_Ban)
+- AtCoderアカウント: [緑 (最高レート: 979)](https://atcoder.jp/users/Ricky_Ban)
 
 ## Contact
 
-Email: ricky1231@g.ecc.u-tokyo.ac.jp
+- Email: ricky1231@g.ecc.u-tokyo.ac.jp
 
-Twitter: [@friend_Beetle](https://twitter.com/friend_Beetle)
+- Twitter: [@friend_Beetle](https://twitter.com/friend_Beetle)
