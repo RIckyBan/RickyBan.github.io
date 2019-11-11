@@ -19,7 +19,7 @@ Majors in Computer Network & IoT.
 
 1. [TABEEGO](https://tabeego-ids.herokuapp.com/) (2019)  
     開発: Ruby on Rails  
-    簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。
+    授業課題で簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。(内部の実装はまだ未完です)
 
 1. [IoT侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)  
     開発: Python3  
@@ -35,9 +35,9 @@ Majors in Computer Network & IoT.
 
 - Githubアカウント: [RIckyBan](https://github.com/RIckyBan)
 
-- Qiitaアカウント: [RIckyBan](https://qiita.com/RIckyBan)
-
 - AtCoderアカウント: [緑 (最高レート: 979)](https://atcoder.jp/users/Ricky_Ban)
+
+- Qiitaアカウント: [RIckyBan](https://qiita.com/RIckyBan)
 
 ## Contact
 
