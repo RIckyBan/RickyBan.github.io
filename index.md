@@ -6,6 +6,9 @@ Riki Bando
 東京大学 教養学部 学際科学科 総合情報学コース B群 4年  
 B4 student at University of Tokyo, College of Arts and Sciences, Department of Interdisciplinary Sciences.
 
+東京大学大学院 情報学環・学際情報学府 中尾研究室にてコンピューターネットワーク・IoTを専攻。  
+Majors in Computer Network & IoT.  
+
 2020年4月より東京大学大学院 情報学環・学際情報学府 総合分析情報学コースに進学予定。
 
 ## Products
