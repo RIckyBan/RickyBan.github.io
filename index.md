@@ -11,12 +11,15 @@ B4 student at University of Tokyo, College of Arts and Sciences, Department of I
 ## Products
 
 1. [アジア開発学生会議HP](http://andyfey.sakura.ne.jp/) (2017)  
+    開発: HTML, CSS  
     自分が所属していたサークルのHPをスクラッチから書きました。
 
 1. [TABEEGO](https://tabeego-ids.herokuapp.com/) (2019)  
-    授業課題で、簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。
+    開発: Ruby on Rails  
+    簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。
 
 1. [IoT侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)  
+    開発: Python3  
     Raspberry Pi上で動作する顔認識の機械学習プログラムを作成し、IFTTTによりLINEと連携させました。
 
 ## Publication
