@@ -1,28 +1,33 @@
 ## Profile
 
-坂東 力  
+坂東 力
 Riki Bando
 
-東京大学 教養学部 学際科学科 総合情報学コース B群 4年  
-B4 student at University of Tokyo, College of Arts and Sciences, Department of Interdisciplinary Sciences.
+学士(教養)。
+Bachelor of Arts.
 
-東京大学大学院 情報学環・学際情報学府 中尾研究室にてコンピューターネットワーク・IoTを専攻。  
-Majors in Computer Network & IoT.  
+2020年3月に東京大学 教養学部 学際科学科 総合情報学コース B群 を卒業。
+Graduated from University of Tokyo, College of Arts and Sciences, Department of Interdisciplinary Sciences in March 2020.
 
-2020年4月より東京大学大学院 情報学環・学際情報学府 総合分析情報学コースに進学予定。
+2020年4月より東京大学大学院 情報学環・学際情報学府 総合分析情報学コースに進学。
+M1 student at University of Tokyo, Graduate School of Interdisciplinary Information Studies.
+
+情報学環中尾研究室にて、コンピューターネットワーク・IoTを専攻。
+Majors in Computer Network & IoT at Nakao Lab.
+
 
 ## Products
 
-1. [アジア開発学生会議HP](http://andyfey.sakura.ne.jp/) (2017)  
-    開発: HTML, CSS  
+1. [アジア開発学生会議HP](http://andyfey.sakura.ne.jp/) (2017)
+    開発: HTML, CSS
     自分が所属していたサークルのHPをスクラッチから書きました。
 
-1. [TABEEGO](https://tabeego-ids.herokuapp.com/) (2019)  
-    開発: Ruby on Rails  
+1. [TABEEGO](https://tabeego-ids.herokuapp.com/) (2019)
+    開発: Ruby on Rails
     授業課題で簡単な掲示板webアプリを実装しました。自分は主にフロントエンドを担当しました。(内部の実装はまだ未完です)
 
-1. [IoT侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)  
-    開発: Python3  
+1. [IoT侵入検知システム](https://github.com/RIckyBan/my_face_detection) (2019)
+    開発: Python3
     Raspberry Pi上で動作する顔認識の機械学習プログラムを作成し、IFTTTによりLINEと連携させました。
 
 ## Publication
