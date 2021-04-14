@@ -29,10 +29,9 @@ Majors in Computer Network & IoT at Nakao Lab.
    開発言語・技術: Python3
    Raspberry Pi 上で動作する顔認識の機械学習プログラム(SVM)を作成し、IFTTT により LINE と連携させました。
 
-1. [げーみんぐ hoge じぇねれーた](https://github.com/RIckyBan/gaming-hoge-generator) (2020)
-   開発言語・技術: Python3, react, kubernetes
-   自分は主にバックエンドの物体検出の API 部分の実装を担当しました。
-   サポーターズ株式会社のハッカソンにて入賞。
+1. [げーみんぐ hoge じぇねれーた](https://github.com/RIckyBan/gaming-hoge-generator) (2020)  
+   開発言語・技術: Python3, react, kubernetes  
+   ディープラーニングにより画像のセグメンテーションを行い、オブジェクトを虹色に装飾したGIF画像を生成するWebサービスを作成しました。   自分は主にバックエンドの物体検出の API 部分の実装を担当しました。サポーターズ株式会社主催のハッカソンにて入賞。
 
 ## Publication
 
