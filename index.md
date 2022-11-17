@@ -9,7 +9,7 @@ Master of Interdisciplinary Science.
 2020 年 3 月に東京大学 教養学部 学際科学科 総合情報学コース B 群 を卒業。  
 Graduated in March 2020 from University of Tokyo, College of Arts and Sciences, Department of Interdisciplinary Sciences.
 
-2020 年 3 月東京大学大学院 情報学環・学際情報学府 総合分析情報学コースを修了。  
+2022 年 3 月東京大学大学院 情報学環・学際情報学府 総合分析情報学コースを修了。  
 Graduate in March 2022 from University of Tokyo, Graduate School of Interdisciplinary Information Studies.
 
 情報学環中尾研究室にて、コンピューターネットワーク・IoT を専攻。  
