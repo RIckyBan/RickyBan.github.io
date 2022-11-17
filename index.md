@@ -33,11 +33,14 @@ Majored in Computer Network & IoT at Nakao Lab.
 
 ### Technical Reports
 
-1. 坂東 力・杜 平・中尾 彰宏,「位相調整制御を用いた周期センサートラフィック平滑化による無線周波数利用効率向上手法」, 信学技報, vol. 119, no. 221, NS2019-100, pp. 7-12, 2019 年 10 月.
+1. 坂東 力・杜 平・中尾 彰宏,「位相調整制御を用いた周期センサートラフィック平滑化による無線周波数利用効率向上手法」, 信学技報, vol. 119, no. 221, NS2019-100, pp. 7-12, 2019 年 10 月.  
+"A Method for Improving Wireless Frequency Utilization by Flattening Periodic Sensor Traffic Using Shift-Phase Manipulation "
 
-2. 坂東 力・中尾 彰宏,「LoRa ネットワークにおける位相調整制御を用いた動的送信スケジューリング手法」, 信学技報, vol. 120, no. 88, NS2020-32, pp. 7-12, 2020 年 7 月.
+2. 坂東 力・中尾 彰宏,「LoRa ネットワークにおける位相調整制御を用いた動的送信スケジューリング手法」, 信学技報, vol. 120, no. 88, NS2020-32, pp. 7-12, 2020 年 7 月.  
+"Dynamic Transmission Scheduling Using Shift-Phase Manipulation in LoRa Networks"
 
-3. 坂東 力・中尾 彰宏,「LoRaネットワークにおけるACKを介した送信遅延制御による動的送信スケジューリング手法」, 信学技報, vol. 121, no. 433, NS2021-150, pp. 164-170, 2022 年 3 月.
+3. 坂東 力・中尾 彰宏,「LoRaネットワークにおけるACKを介した送信遅延制御による動的送信スケジューリング手法」, 信学技報, vol. 121, no. 433, NS2021-150, pp. 164-170, 2022 年 3 月.  
+"Dynamic Scheduling Method Using Transmission Delay Manipulation via ACK for LoRa Wireless Network" 
 
 ## Misc
 
