@@ -50,11 +50,16 @@ Majored in Computer Network & IoT at Nakao Lab.
 
 ## Misc
 
+- linkedin アカウント: [Riki Bando](https://www.linkedin.com/in/riki-bando-086710155/)
+
 - Github アカウント: [RIckyBan](https://github.com/RIckyBan)
 
 - AtCoder アカウント: [緑 (最高レート: 1009)](https://atcoder.jp/users/Ricky_Ban)
 
 - Qiita アカウント: [RIckyBan](https://qiita.com/RIckyBan)
+
+- ブログ: [教養の海を泳ぐ](https://ricky-ban.hatenablog.com)
+
 
 ## Contact
 
