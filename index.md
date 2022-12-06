@@ -1,9 +1,3 @@
----
-layout: default
-title: rickyban's portfolio
-description: rickyban's portfolio
----
-
 ## Profile
 
 坂東 力  
